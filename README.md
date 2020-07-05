@@ -1,5 +1,6 @@
 # mahahaklice
 RTWA - Real-Time Web Application
+The [Plan](https://docs.google.com/document/d/19zDe5Ee3U8-Q_3z7_SQ7xuOmcqVtCfU2Of8-Slk2nxQ)
 
 ### Content
 
