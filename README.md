@@ -1,4 +1,11 @@
+<a href="http://stojadinovic.net">
+  <img alt="stojadinovic.net" src="https://avatars0.githubusercontent.com/u/112515?s=75" width="75">
+</a>
+
 # mahahaklice
+[![codacy](https://img.shields.io/codacy/grade/60322e02d8df469893dbb8c0a89e5cc8.svg)](https://www.codacy.com/project/prefko/mahahaklice-js/dashboard)
+[![dependencies](https://david-dm.org/prefko/mahahaklice-js.svg)](https://www.npmjs.com/package/mahahaklice-js)
+
 RTWA - Real-Time Web Application
 The [Plan](https://docs.google.com/document/d/19zDe5Ee3U8-Q_3z7_SQ7xuOmcqVtCfU2Of8-Slk2nxQ)
 
