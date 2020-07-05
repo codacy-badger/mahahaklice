@@ -40,15 +40,13 @@ export default class Task extends Component {
 					onClick={this.toggleChecked.bind(this)}
 				/>
 
+				<span className="text"><strong>{this.props.task.username}</strong>: {this.props.task.text}</span>
+
 				{this.props.showPrivateButton ? (
-					<button className="toggle-private" onClick={this.togglePrivate.bind(this)}>
+					<button style={{marginLeft: '20px'}} className="toggle-private" onClick={this.togglePrivate.bind(this)}>
 						{this.props.task.private ? 'Private' : 'Public'}
 					</button>
 				) : ''}
-
-				<span className="text">
-          <strong>{this.props.task.username}</strong>: {this.props.task.text}
-        </span>
 			</li>
 		);
 	}
