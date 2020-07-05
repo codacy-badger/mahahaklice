@@ -11,7 +11,7 @@ lerna-debug.log*
 node_modules/
 backend-fastify/node_modules/
 frontend-react/node_modules/
-frontend-svelte/node_modules/
+frontend-sapper/node_modules/
 meteor-react/.meteor/
 meteor-react/node_modules/
 meteor-svelte/.meteor/

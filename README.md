@@ -1,6 +1,18 @@
 # mahahaklice
+RTWA - Real-Time Web Application
 
-#### RTWA POC
+### Content
+
+1. Using own implementation in:
+    1. backend-fastify (backend, works with both frontends)
+    1. frontend-react (react frontend)
+    1. frontend-sapper (sapper frontend)
+1. Using Meteor with React in
+    1. meteor-react (based on [tutorial](https://www.meteor.com/tutorials/react/creating-an-app))
+1. Using Meteor with Svelte in
+    1. meteor-svelte (based on [tutorial](https://www.meteor.com/tutorials/svelte/creating-an-app))
+
+### RTWA POC
 
 1. Facebook or Google login (or both…)<br/><i>With JWT tokens</i><br/>&nbsp;
 1. Collection mahahaklice<br/><i>Use [casual](https://www.npmjs.com/package/casual) to generate random data</i><br/>&nbsp;
