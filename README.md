@@ -6,7 +6,7 @@
 [![codacy](https://img.shields.io/codacy/grade/60322e02d8df469893dbb8c0a89e5cc8.svg)](https://www.codacy.com/project/prefko/mahahaklice-js/dashboard)
 [![dependencies](https://david-dm.org/prefko/mahahaklice-js.svg)](https://www.npmjs.com/package/mahahaklice-js)
 
-RTWA - Real-Time Web Application
+RTWA - Real-Time Web Application<br>
 The [Plan](https://docs.google.com/document/d/19zDe5Ee3U8-Q_3z7_SQ7xuOmcqVtCfU2Of8-Slk2nxQ)
 
 ### Content
