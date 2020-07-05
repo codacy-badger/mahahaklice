@@ -20,6 +20,12 @@ The [Plan](https://docs.google.com/document/d/19zDe5Ee3U8-Q_3z7_SQ7xuOmcqVtCfU2O
 1. Using Meteor with Svelte in
     1. meteor-svelte (based on [tutorial](https://www.meteor.com/tutorials/svelte/creating-an-app))
 
+### Requirements
+
+Locally installed MongoDB:
+* as a cluster (see [MongoDB: Convert a Standalone to a Replica Set](https://docs.mongodb.com/manual/tutorial/convert-standalone-to-replica-set/))
+* with featureCompatibilityVersion = "3.6" (see [setFeatureCompatibilityVersion](https://docs.mongodb.com/manual/reference/command/setFeatureCompatibilityVersion/))
+
 ### RTWA POC
 
 1. Facebook or Google login (or both…)<br/><i>With JWT tokens</i><br/>&nbsp;
